@@ -100,6 +100,16 @@ This will:
 
 ---
 
+## 🖼 Example Output
+
+Below is an example of the rendered RNA structure:
+
+![Example RNA](asset/frame0034.png)
+
+This frame was generated from a SimRNA replica and reconstructed at rigid-body full-atomic resolution using [`trc2pdb`](https://github.com/Firingam/TRC2PDB).
+
+---
+
 ## 📂 Folder Structure
 
 ```
